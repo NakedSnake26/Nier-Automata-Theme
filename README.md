@@ -1,8 +1,8 @@
 # Nier:Automata Theme
 
 ![Build](https://github.com/NakedSnake26/Nier-Automata-theme/workflows/Build/badge.svg)
-[![Version](https://img.shields.io/jetbrains/plugin/v/PLUGIN_ID.svg)](https://plugins.jetbrains.com/plugin/18627-nier-automata-theme/)
-[![Downloads](https://img.shields.io/jetbrains/plugin/d/PLUGIN_ID.svg)](https://plugins.jetbrains.com/plugin/18627-nier-automata-theme/)
+[![Version](https://img.shields.io/jetbrains/plugin/v/PLUGIN_ID.svg)](https://plugins.jetbrains.com/plugin/18686-nier-automata-theme)
+[![Downloads](https://img.shields.io/jetbrains/plugin/d/PLUGIN_ID.svg)](https://plugins.jetbrains.com/plugin/18686-nier-automata-theme)
 
 <!-- Plugin description -->
 >[Nier:Automata](https://github.com/NakedSnake26/Nier-Automata-theme) theme for JetBrains.
