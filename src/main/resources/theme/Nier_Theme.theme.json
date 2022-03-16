@@ -91,6 +91,9 @@
         "nonEditableBackground": "#b4af9a"
       }
     },
+    "ComboBoxButton": {
+      "background": "#dad4ba"
+    },
 
     "ComboPopup.border": "1,1,1,1,b4af9a",
 
@@ -160,11 +163,11 @@
     },
 
     "Link": {
-      "activeForeground": "#c44a4a",
-      "hoverForeground": "#c44a4a",
-      "pressedForeground": "#c44a4a",
-      "visitedForeground": "#c44a4a",
-      "secondaryForeground": "#c44a4a"
+      "activeForeground": "#4d74cd",
+      "hoverForeground": "#4d74cd",
+      "pressedForeground": "#4d74cd",
+      "visitedForeground": "#4d74cd",
+      "secondaryForeground": "#4d74cd"
     },
 
     "MemoryIndicator": {
@@ -420,7 +423,7 @@
       "ToolWindow": {
         "Header": {
           "background": "#d7d3c0",
-          "inactiveBackground": "#cdc8b0"
+          "inactiveBackground": "#c5c0a4"
         },
         "HeaderTab": {
           "selectedInactiveBackground": "#b4af9a80",
