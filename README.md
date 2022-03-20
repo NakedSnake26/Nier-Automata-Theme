@@ -10,7 +10,7 @@
 ## WIP
 If you find "bad colors" or have any problem, please [submit an issue.](https://github.com/NakedSnake26/Nier-Automata-Theme/issues/new)
 
-If you liked my theme, don't forget to put a rating and write a review in JetBrains marketplace.
+If you liked my theme, don't forget to put a rating and write a review in [JetBrains marketplace](https://plugins.jetbrains.com/plugin/18686-nier-automata-theme).
 
 ![Code example](https://raw.githubusercontent.com/NakedSnake26/Nier-Automata-Theme/main/docs/screenshots/default.png)
 
