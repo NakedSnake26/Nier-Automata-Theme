@@ -8,14 +8,15 @@
 >[Nier:Automata](https://github.com/NakedSnake26/Nier-Automata-theme) theme for JetBrains.
 
 ## WIP
- If you find "bad colors" or have any problem, please [submit an issue.](https://github.com/NakedSnake26/Nier-Automata-Theme/issues/new)
+If you find "bad colors" or have any problem, please [submit an issue.](https://github.com/NakedSnake26/Nier-Automata-Theme/issues/new)
+
+If you liked my theme, don't forget to put a rating and write a review in JetBrains marketplace.
 
 ![Code example](https://raw.githubusercontent.com/NakedSnake26/Nier-Automata-Theme/main/docs/screenshots/default.png)
 
 <!-- Plugin description end -->
 
 ## Installation
-
 
 - Using IDE built-in plugin system:
   
