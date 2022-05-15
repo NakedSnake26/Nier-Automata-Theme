@@ -4,6 +4,16 @@
 
 ## [Unreleased]
 
+## [1.1.1]
+### Added
+- Support IDE 2022 version,
+
+### Changed
+- Upgrade all dependencies 
+
+### Afterword
+An update of the color palette is being prepared, but it will not be released soon. I hope by this time you will not forget me!
+
 ## [1.1.0]
 ### Added
 - Support consoles colors.
@@ -20,11 +30,5 @@ Color of To-Do is now cyan.
 - Changed error stripe mark: now they are brighter and more diverse.
 - Changed colors "Search result": now they are more contrasting.
 - Changed Java constant color.
-
-### Afterword
-I think I managed to make a good Nier: Automata UI theme, although the work is far from complete.
-Some elements could not be changed due to IDE itself, such as GIT branch, the panel with typos, and so on. I hope to find a solution to this problem.
-
-If you liked my theme, don't forget to put a rating and write a review in JetBrains marketplace.
 
 ## [1.0.0]
